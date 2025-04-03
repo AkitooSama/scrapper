@@ -1,4 +1,3 @@
-"""
 Instagram Hashtag Image Scraper
 ===============================
 
@@ -33,5 +32,3 @@ Troubleshooting:
 - Match Chrome & ChromeDriver versions.
 - Verify `credentials.json` is correct.
 - Check if Instagram is blocking requests.
-
-"""
