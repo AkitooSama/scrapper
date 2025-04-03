@@ -13,11 +13,11 @@ Features:
 
 Installation:
 1. Clone the repo:
-   git clone https://github.com/AkitooSama/scrapper.git && cd scrapper
+   `git clone https://github.com/AkitooSama/scrapper.git && cd scrapper`
 2. Create & activate a virtual environment:
-   python -m venv venv && source venv/bin/activate  # Windows: venv\Scripts\activate
+   `python -m venv venv && source venv/bin/activate ` # Windows: `venv\Scripts\activate`
 3. Install dependencies:
-   pip install -r requirements.txt
+   `pip install -r requirements.txt`
 4. Ensure ChromeDriver is installed and in PATH.
 
 Configuration:
